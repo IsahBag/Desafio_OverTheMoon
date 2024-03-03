@@ -1,7 +1,10 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Explorando o espaço com o Python e o Visual Studio Code; inspirado pelo filme da Netflix "A Caminho da Lua" 🚀
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+**Desafio extra proposta na semana 8 do bootcamp Back-End Python e Django, ministrado pela WoMakers, utilizando a plataforma de treinamento da Microsoft**
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Módulo 1 - Planejar uma missão lunar usando pandas de Python:
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+*Breve resumo das etapas da atividade:*
+
+Comecei essa atividade lendo um arquivo em .CSV com as amostras de rochas coletadas nas missões da Apollo na lua, no formato de DataFrame do Pandas.
+Depois foram realizadas uma série de operações para estimar a quantidade de rochas de tipos específicos que é recomendado aos astronautas coletarem na próxima missão "Artemis", levando em consideração o peso médio de cada rocha, a quantidade restante de amostras, a capacidade de carga, o peso da tripulação e dos módulos do foguete, dentre outros parâmetros.
